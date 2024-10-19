@@ -1,0 +1,8 @@
+{
+  "name": "tilin",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "c34de360"
+}
